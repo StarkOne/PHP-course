@@ -24,7 +24,7 @@ class ComposerStaticInitdabd90b1008e88cbbf8f02bff94fd62d
         ),
         'PHPmaster\\' => 
         array (
-            0 => __DIR__ . '/..' . '/PHPmaster',
+            0 => __DIR__ . '/..' . '/PHPmaster/core',
         ),
     );
 

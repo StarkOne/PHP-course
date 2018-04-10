@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'app\\' => array($baseDir . '/app'),
-    'PHPmaster\\' => array($vendorDir . '/PHPmaster'),
+    'PHPmaster\\' => array($vendorDir . '/PHPmaster/core'),
 );

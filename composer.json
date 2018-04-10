@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "PHPmaster\\" : "vendor/PHPmaster",
+      "PHPmaster\\" : "vendor/PHPmaster/core",
       "app\\": "app"
     }
   },
