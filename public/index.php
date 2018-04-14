@@ -4,4 +4,7 @@
 
   new \PHPmaster\App();
   //\PHPmaster\App::$app()->setProperty('test', "TEST");
-  debug(\PHPmaster\App::$app->getProperties());
+  //debug(\PHPmaster\App::$app->getProperties());
+
+  //throw new Exception("Страница не найдена", 404);
+  
